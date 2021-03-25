@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.javabrains.movieinfoservice.MovieInfoServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.768 s - in io.javabrains.movieinfoservice.MovieInfoServiceApplicationTests
